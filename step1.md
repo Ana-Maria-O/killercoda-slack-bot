@@ -1,0 +1,1 @@
+This is the first step of the tutorial. we can have a check going on to see if certain conditions are met (such as specific files being created) but from what I can tell it's not compulsory
