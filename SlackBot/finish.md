@@ -1,1 +1,1 @@
-This is the end of the tutorial
+Now enter slack channel and watch the bot werk.
