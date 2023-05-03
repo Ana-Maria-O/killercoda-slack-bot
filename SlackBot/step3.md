@@ -1,5 +1,7 @@
-create python file
-take oauth token and write this code:
+GEO
 
-*insert code here*
-(maybe make this into different steps)
+make a file named bonjour.py
+
+add helloworld code
+
+go into slack and check that it works
