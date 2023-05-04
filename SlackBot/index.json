@@ -21,6 +21,14 @@
             {
                 "title": "Start programming the bot",
                 "text": "step4.md"
+            },
+            {
+                "title": "Bot functionality",
+                "text": "step5.md"
+            },
+            {
+                "title": "More monitoring",
+                "text": "step6.md"
             }
         ],
         "finish": {
