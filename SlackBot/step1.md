@@ -17,7 +17,9 @@ This is the first step of the tutorial. we can have a check going on to see if c
 ## Step 8: Now click on “Install to Workspace” and press on “Allow” to generate an OAuth token.
 ![gitkey](./jpgs/7.jpg)
 ## Step 9: Now copy the above “OAuth Token” and paste it into a bonjour.py file as 
-   ```SLACK_TOKEN="<Your Token>”. ```
+   ```
+   SLACK_TOKEN="<Your Token>”. 
+   ```
 
 ## Step 10: Now we create the channel in slack and add our app to it. To open your slack account go to the channel bar and click on the “+” sign. Then click on “Create a new channel”.
 ![gitkey](./jpgs/8.jpg)
