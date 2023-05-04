@@ -7,13 +7,21 @@
         },
         "steps": [
             {
-                "title": "Step 1",
+                "title": "Prerequisites",
                 "text": "step1.md"
             },
             {
                 "title": "Step 2",
                 "text": "step2.md"
-            }
+            },
+            {
+                "title": "Step 3",
+                "text": "step3.md"
+            },
+            {
+                "title": "Start programming the bot",
+                "text": "step4.md"
+            },
         ],
         "finish": {
             "text": "finish.md"
