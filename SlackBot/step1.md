@@ -23,4 +23,5 @@ This is the first step of the tutorial. we can have a check going on to see if c
 ![gitkey](./jpgs/8.jpg)
 ## Step 11: Now type your channel name and click on the “Create” Button.
 ![gitkey](./jpgs/9.jpg)
+
 ## Step 12: Now Add your app to the channel by just typing “/invite @Your_App_Name” (use the app name that you want to connect with the channel) in channel chat.
