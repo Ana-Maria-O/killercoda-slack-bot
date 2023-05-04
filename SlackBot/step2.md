@@ -1,6 +1,7 @@
-GEO
-
 Now it's time to code
-Start by pip install iuyretit
 
-and all the other packages that we need
+Start by installing packages that we are going to need:
+
+pip install slackclient
+pip install slack-sdk
+
