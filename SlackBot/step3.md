@@ -19,3 +19,6 @@ client.chat_postMessage(channel='#<channel_name_for_the_bot>',text='Bonjour')
 ``` 
 
 Run the script and go to your Slack channel and check that it works.
+```
+python bonjour.py
+```{{exec}}
