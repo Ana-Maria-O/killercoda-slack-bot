@@ -1,6 +1,4 @@
-Now it's time to code
-
-Start by installing packages that we are going to need:
+Before we begin programming, start by installing packages that we are going to need:
 
 ```
 pip install slackclient &&

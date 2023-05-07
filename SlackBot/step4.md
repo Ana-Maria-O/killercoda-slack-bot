@@ -1,4 +1,4 @@
-Now that we know that the bot is connected to the right channel, it is time to program it.
+Now that we know that the bot is connected to the right channel, it is time to program it. You can arease the contents of the bonjour.py file or make a new one.
 
 We begin by importing all the necessary packages:
 
