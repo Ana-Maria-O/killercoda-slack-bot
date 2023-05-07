@@ -15,14 +15,14 @@ And we check that is has the right status code. The bot then sends an alert to t
 ```
         if response.status_code != status_code:
             # Send an alert message to your Slack channel
-            message = f"The server status has changed to {response.status_code}!"
+            message = f"You're a wizard Harry, you changed the server status to {response.status_code}!"
             response = client.chat_postMessage(
                 channel="#slack-bot",
                 text=message
             )
             print("Alert sent: ", response["ts"])
         else:
-            message = f"The server at {url} is up and running!"
+            message = f"The server at {url} is alive! It's alive!"
             response = client.chat_postMessage(
                 channel="#slack-bot",
                 text=message
